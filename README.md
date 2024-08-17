@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atlonglastkibet
+- 👋 Hi, I’m David Kibet
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently Python and R
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Research and Data Science and Data analysis
 - 📫 How to reach me: atlonglastkibet@gmail.com
 - 😄 Pronouns: He/Him
