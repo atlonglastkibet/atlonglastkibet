@@ -1,6 +1,6 @@
 ### Hello World!🌎 I’m David Kibet
 - I'm passionate about Data Science and Research
-- I’m currently building expertise in Python,SQL and Statistic
+- Currently building 'DataOpsKenya'- solving business & research needs in Kenya through quality data
 - Open to collabs in Machine Learning & Research
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
