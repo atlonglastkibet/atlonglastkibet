@@ -1,4 +1,4 @@
-# Hello World!🌎 I’m David Kibet
+### Hello World!🌎 I’m David Kibet
 - I'm passionate about Data Science and Research
 - I’m currently building expertise in Python,SQL and Statistic
 - Open to collabs in Machine Learning & Research
