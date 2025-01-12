@@ -5,7 +5,6 @@
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
 
-## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DF3C64?style=flat&logo=jupyter&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4A77FF?style=flat&logo=python&logoColor=white)
