@@ -4,7 +4,7 @@
 - Open to collabs in Machine Learning & Research
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
-- 
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DF3C64?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
