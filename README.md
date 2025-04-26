@@ -1,7 +1,7 @@
 ### Hello World!🌎 I’m David Kibet
 - I'm passionate about Data Science and Research in Human Health
 - I have a background in Microbiology. I'm currently enrolled in Datascience at Zindua School
-- Currently building 'DataOpsKenya'- solving business & research needs in Kenya through quality data
+- Currently building 'Sisi ni Data' — the future will not be supervised
 - Open to collabs in Research, Data Analysis and Machine Learning
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
