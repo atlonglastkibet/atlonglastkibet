@@ -1,8 +1,8 @@
 ### Hello World!🌎 I’m David Kibet
 - I'm passionate about Data Science and Research in Human Health
-- I have a background in Microbiology. I'm currently enrolled in Datascience at Zindua School
+- I have a background in Microbiology. I'm currently enrolled in Data Science at Zindua School
 - Currently building 'SISI NI DATA' — a data company based in NBO
-- Open to collabs in Research, Data Analysis and Machine Learning
+- Open to collabs in Research, Data Analysis, Data Visualization, Machine Learning and Deep Learning 
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
   
