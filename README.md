@@ -1,8 +1,8 @@
 ### Hello World!🌎 I’m David Kibet
-- Built [**Jav-Nairobi**](https://github.com/atlonglastkibet/jav-nairobi): GNN-powered transit equity system (94% accuracy) optimizing matatu accessibility for 1.8M+ Nairobi residents
-- Background in Microbiology & Molecular Biology, currently transitioning to Data Science
+- Built [**Jav-Nairobi**](https://jav-nairobi.streamlit.app/): GNN-powered transit equity system for optimizing matatu accessibility for 1.8M+ underserved Nairobi residents
+- Background in Microbiology & Molecular Biology, currently transitioning to Data Science and AI Research
 - Founder of multiple data ventures including ongoing entrepreneurial projects in Nairobi
-- Open to collabs in: Research, Geospatial Analysis, Graph Neural Networks, ML/DL, Transit Systems
+- Open to collabs in: Research, Geospatial Analysis, Graph Neural Networks, AI, ML/DL, and Transit Systems
 - Email me: atlonglastkibet@gmail.com
 - I use arch btw
 
