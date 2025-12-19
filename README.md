@@ -1,5 +1,5 @@
 ### Hello World!🌎 I’m David Kibet
-- Built [**Jav-Nairobi**](https://jav-nairobi.streamlit.app/): GNN-powered transit equity system for optimizing matatu accessibility for 1.8M+ underserved Nairobi residents
+- Built [Jav-Nairobi](https://jav-nairobi.streamlit.app): GNN-powered transit equity system for optimizing matatu accessibility for 1.8M+ underserved Nairobi residents
 - Background in Microbiology & Molecular Biology, currently transitioning to Data Science and AI Research
 - Founder of multiple data ventures including ongoing entrepreneurial projects in Nairobi
 - Open to collabs in: Research, Geospatial Analysis, Graph Neural Networks, AI, ML/DL, and Transit Systems
